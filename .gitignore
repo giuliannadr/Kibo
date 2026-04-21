@@ -1,0 +1,12 @@
+# .NET
+[Bb]in/
+[Oo]bj/
+.vscode/
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+
+# OS files
+.DS_Store
