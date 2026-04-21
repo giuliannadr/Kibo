@@ -1,6 +1,0 @@
-@Kibo.Webapp_HostAddress = http://localhost:5025
-
-GET {{Kibo.Webapp_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
