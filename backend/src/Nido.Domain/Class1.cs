@@ -1,4 +1,4 @@
-﻿namespace Kibo.Logic;
+﻿namespace Nido.Domain;
 
 public class Class1
 {
